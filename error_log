@@ -1,0 +1,11 @@
+[15-Dec-2025 02:01:34 UTC] Resend API error: {"statusCode":422,"name":"validation_error","message":"The `from` field must be a `string`."}
+[15-Dec-2025 02:07:26 UTC] Resend API error: {"statusCode":422,"name":"validation_error","message":"The `from` field must be a `string`."}
+[15-Dec-2025 02:08:07 UTC] Resend API error: {"statusCode":422,"name":"validation_error","message":"The `from` field must be a `string`."}
+[15-Dec-2025 02:08:34 UTC] Resend API error: {"statusCode":422,"name":"validation_error","message":"The `from` field must be a `string`."}
+[15-Dec-2025 02:10:49 UTC] Resend API error: {"statusCode":422,"name":"validation_error","message":"The `from` field must be a `string`."}
+[15-Dec-2025 02:15:58 UTC] sendFormSummaryByEmail: missing email or message
+[15-Dec-2025 02:17:32 UTC] sendFormSummaryByEmail: missing email or message
+[15-Dec-2025 02:18:40 UTC] sendFormSummaryByEmail: missing email or message
+[15-Dec-2025 02:21:19 UTC] sendFormSummaryByEmail: missing email or message
+[15-Dec-2025 02:21:48 UTC] sendFormSummaryByEmail: missing email or message
+[15-Dec-2025 02:22:54 UTC] sendFormSummaryByEmail: missing email or message
